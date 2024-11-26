@@ -1,0 +1,9 @@
+Copyright (c) 2024 ErayDev
+
+Bu yazılım yalnızca öğretim amaçlı sağlanmaktadır. Yazılımın herhangi bir kullanımından kaynaklanan zararlar, kayıplar veya herhangi bir olumsuz durumdan dolayı hiçbir şekilde sorumluluk kabul edilmez.
+
+Bu yazılımı kullanarak, tüm riskleri kabul etmiş olursunuz. Yazılım, "olduğu gibi" sağlanmaktadır ve herhangi bir garanti verilmez.
+
+Yazılımı çoğaltabilir, dağıtabilir veya değiştirebilirsiniz, ancak yazılımın herhangi bir ticari amaçla kullanılmaması gerekmektedir.
+
+Lütfen bu yazılımı yalnızca eğitimsel veya kişisel amaçlar için kullanın. Ticari kullanımlar veya başkalarına satmak yasaktır.
